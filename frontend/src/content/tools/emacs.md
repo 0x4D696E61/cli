@@ -35,7 +35,7 @@ tags:
 media: https://www.gnu.org/software/emacs/images/teaser.png
 logo: https://cli.masoko.net/uploads/emacs/logo.png
 updated: '2026-08-10'
-repo_stars: 5212
+repo_stars: 5210
 repo_updated: "2026-10-01"
 repo_created: "2014-08-07"
 repo_release: "emacs-31.1"
